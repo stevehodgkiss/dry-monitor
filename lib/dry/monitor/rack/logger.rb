@@ -1,3 +1,4 @@
+require 'rack/utils'
 require 'dry/configurable'
 
 module Dry
